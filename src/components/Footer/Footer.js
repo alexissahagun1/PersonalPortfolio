@@ -34,7 +34,7 @@ const Footer = () => {
             Guadalajara, Jalisco, Mexico
           </LinkItem>
         </LinkColumn>
-        <LinkColumn style={{marginLeft: '10rem'}}>
+        {/* <LinkColumn style={{marginLeft: '10rem'}}>
         <div style={{height: '40vh', width: '40vh'}}>
             <GoogleMapReact
               bootstrapURLKeys={{key: "AIzaSyBLNpXSgAaKaMpGLxl7DrWaYkj3Qc2-McE"}}
@@ -43,7 +43,7 @@ const Footer = () => {
               >
               </GoogleMapReact>
           </div>
-        </LinkColumn>
+        </LinkColumn> */}
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>

@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/Portfolio.jpeg',
     tags: ['React', 'Javascript', 'Next.js'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/alexissahagun1/PersonalPortfolio',
     id: 3,
   },
 ];
